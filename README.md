@@ -9,7 +9,7 @@ It also displays a chart that shows a percentage representing much money you hav
 
 Click the add new expense button to get a form that will let you add a new expense, remember to fill all the fields, otherwise the app will alert you and it won't create the new expense.
 
-![](https://github.com/Juansu01/expense-tracker/blob/main/readme-media/add_gif.gif)
+![](https://github.com/Juansu01/expense-tracker/blob/main/readme-media/add_expense.gif)
 
 ## Deleting an expense
 
